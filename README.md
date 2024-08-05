@@ -1,3 +1,3 @@
 # QA
 
-Automobile Data Set
+Mini-Teach
